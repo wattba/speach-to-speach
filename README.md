@@ -1,2 +1,3 @@
-# speach-to-speach
-Speach to Speach translation
+## Seq2Seq Text Translation
+
+Text translation using AWS
